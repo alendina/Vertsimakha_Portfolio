@@ -7,7 +7,7 @@ Job Interview ChatBot is an AI-powered assistant that simulates an HR interview 
 •	Features an interactive user interface built with Streamlit.
 •	This project is the main assignment for the course "LLM Engineering in Practice with Streamlit & OpenAI" by the 365DataScience.com platform
 
-![image](./Images/Interview%20ChatBot.%20Interface.png)
+![image](/Images/Interview ChatBot. Interface.png)
 
 [Live Demo](https://jobintrviewbotgpt-alendina.streamlit.app)
 
