@@ -1,0 +1,9 @@
+title: Alyona Vertsimakha Portfolio
+description: A description of my site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourdomain.com" # the base hostname & protocol for your site
+
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
