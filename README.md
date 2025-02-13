@@ -7,7 +7,7 @@ Job Interview ChatBot is an AI-powered assistant that simulates an HR interview 
 •	Features an interactive user interface built with Streamlit.
 •	This project is the main assignment for the course "LLM Engineering in Practice with Streamlit & OpenAI" by the 365DataScience.com platform
 
-![image](/Images/Interview%20ChatBot.%20Interface.png)
+![image](./Images/Interview%20ChatBot.%20Interface.png)
 
 [Live Demo](https://jobintrviewbotgpt-alendina.streamlit.app)
 
@@ -20,7 +20,7 @@ Conway’s Game of Life is a zero-player game requiring only an initial state an
 •	Visualized by the Scatter plot and Heatmap in an interactive step-by-step mode using matplotlib library 
 •	This project was created in Python as part of the "Python Bootcamp" course offered by the 365DataScience.com platform.
 
-![image](/Images/Game%20of%20Line.%20Scatter%20Plot.png)
+![image](./Images/Game%20of%20Line.%20Scatter%20Plot.png)
 
 ---
 
