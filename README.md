@@ -20,7 +20,7 @@ Conway’s Game of Life is a zero-player game requiring only an initial state an
 •	Visualized by the Scatter plot and Heatmap in an interactive step-by-step mode using matplotlib library 
 •	This project was created in Python as part of the "Python Bootcamp" course offered by the 365DataScience.com platform.
 
-![image](/Images/GameLife.Scatter_Plot.png)
+![image](/Images/Game_Life.Scatter_Plot.png)
 
 ---
 
